@@ -1,0 +1,1 @@
+line =raw_input()
